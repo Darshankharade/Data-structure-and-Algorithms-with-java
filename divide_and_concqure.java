@@ -78,5 +78,3 @@ public static void main(String[] args)
 					"a given array is : %d", max);
 }
 }
-
-// This code is contributed by Princi Singh
