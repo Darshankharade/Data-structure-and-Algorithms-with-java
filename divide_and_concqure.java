@@ -1,6 +1,6 @@
 // Java code to demonstrate Divide and
 // Conquer Algorithm
-class GFG{
+class dac{
 
 // Function to find the maximum no.
 // in a given array.
